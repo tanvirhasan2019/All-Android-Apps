@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@drawable/file_back"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".File_hand_main">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/file_hand_main_id"
+            android:layout_margin="15dp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:textColor="#fcf9f1"
+            android:textSize="28sp"
+            android:text="FILE HANDLING"
+            android:background="#2e3535"
+            android:layout_width="250dp"
+            android:layout_height="60dp" />
+        <Button
+            android:id="@+id/fprintf_id"
+            android:layout_margin="15dp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:textColor="#fcf9f1"
+            android:textSize="28sp"
+            android:text="FPRINTF  FSCANF"
+            android:background="#2e3535"
+            android:layout_width="250dp"
+            android:layout_height="60dp" />
+        <Button
+            android:id="@+id/fputc_id"
+            android:layout_margin="15dp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:textColor="#fcf9f1"
+            android:textSize="28sp"
+            android:text="FPUTC FGETC"
+            android:background="#2e3535"
+            android:layout_width="250dp"
+            android:layout_height="60dp" />
+        <Button
+            android:id="@+id/fputs_id"
+            android:layout_margin="15dp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:textColor="#fcf9f1"
+            android:textSize="28sp"
+            android:text="FPUTS FGETS"
+            android:background="#2e3535"
+            android:layout_width="250dp"
+            android:layout_height="60dp" />
+        <Button
+            android:id="@+id/fseek_id"
+            android:layout_margin="15dp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:textColor="#fcf9f1"
+            android:textSize="28sp"
+            android:text="FSEEK"
+            android:background="#2e3535"
+            android:layout_width="250dp"
+            android:layout_height="60dp" />
+
+        <Button
+            android:id="@+id/ftell_id"
+            android:layout_margin="15dp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:textColor="#fcf9f1"
+            android:textSize="28sp"
+            android:text="FTELL"
+            android:background="#2e3535"
+            android:layout_width="250dp"
+            android:layout_height="60dp" />
+        <Button
+            android:id="@+id/frewind_id"
+            android:layout_margin="15dp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:textColor="#fcf9f1"
+            android:textSize="28sp"
+            android:text="FREWIND"
+            android:background="#2e3535"
+            android:layout_width="250dp"
+            android:layout_height="60dp" />
+    </LinearLayout>
+
+
+
+
+</ScrollView>

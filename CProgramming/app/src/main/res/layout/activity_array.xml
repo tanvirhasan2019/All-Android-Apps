@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/array_back"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Array">
+
+    <Button
+        android:id="@+id/one_id"
+        android:layout_margin="15dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:textColor="#fcf9f1"
+        android:textSize="28sp"
+        android:text="1D ARRAY"
+        android:background="#2e3535"
+        android:layout_width="250dp"
+        android:layout_height="70dp" />
+
+    <Button
+        android:id="@+id/two_id"
+        android:layout_margin="15dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:textColor="#fcf9f1"
+        android:textSize="28sp"
+        android:text="2D ARRAY"
+        android:background="#2e3535"
+        android:layout_width="250dp"
+        android:layout_height="70dp" />
+
+    <Button
+        android:id="@+id/three_id"
+        android:layout_margin="15dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:textColor="#fcf9f1"
+        android:textSize="28sp"
+        android:text="ARRAY TO FUNC"
+        android:background="#2e3535"
+        android:layout_width="250dp"
+        android:layout_height="70dp" />
+
+</LinearLayout>

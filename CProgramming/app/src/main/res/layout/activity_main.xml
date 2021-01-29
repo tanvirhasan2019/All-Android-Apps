@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/c1"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+   <Button
+       android:id="@+id/history_id"
+       android:layout_margin="15dp"
+       android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+       android:textStyle="bold"
+       android:layout_gravity="center"
+       android:textColor="#fcf9f1"
+       android:textSize="28sp"
+       android:text="C HISTORY"
+       android:background="#2e3535"
+       android:layout_width="250dp"
+       android:layout_height="70dp" />
+
+    <Button
+        android:id="@+id/tutorial_id"
+        android:layout_margin="15dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:textColor="#fcf9f1"
+        android:textSize="28sp"
+        android:text="TUTORIAL"
+        android:background="#2e3535"
+        android:layout_width="250dp"
+        android:layout_height="70dp" />
+
+    <Button
+        android:id="@+id/program_id"
+        android:layout_margin="15dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:textColor="#fcf9f1"
+        android:textSize="28sp"
+        android:text="PROGRAMS"
+        android:background="#2e3535"
+        android:layout_width="250dp"
+        android:layout_height="70dp" />
+
+
+    <Button
+        android:id="@+id/exam_id"
+        android:layout_margin="15dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:textColor="#fcf9f1"
+        android:textSize="28sp"
+        android:text="EXAM QUESTIONS"
+        android:background="#2e3535"
+        android:layout_width="250dp"
+        android:layout_height="70dp" />
+
+
+
+
+</LinearLayout>

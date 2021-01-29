@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".String_main">
+
+    <ListView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:listSelector="#898888"
+        android:id="@+id/simpleListView"
+        android:dividerHeight="2dp"
+        android:divider="#383632"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context="abhiandroid.com.listexample.MainActivity">
+    </ListView>
+
+
+</LinearLayout>

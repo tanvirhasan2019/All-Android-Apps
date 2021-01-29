@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/structure_back"
+    android:layout_height="match_parent"
+    tools:context=".Structure_main">
+
+    <Button
+        android:id="@+id/structure_id"
+        android:layout_margin="15dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:textColor="#fcf9f1"
+        android:textSize="28sp"
+        android:text="STRUCTURE"
+        android:background="#2e3535"
+        android:layout_width="250dp"
+        android:layout_height="70dp" />
+
+    <Button
+        android:id="@+id/array_structure_id"
+        android:layout_margin="15dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:textColor="#fcf9f1"
+        android:textSize="28sp"
+        android:text="ARRAY OF STRUCTURE"
+        android:background="#2e3535"
+        android:layout_width="250dp"
+        android:layout_height="70dp" />
+
+
+    <Button
+        android:id="@+id/nested_structure_id"
+        android:layout_margin="15dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:textColor="#fcf9f1"
+        android:textSize="28sp"
+        android:text="NESTED STRUCTURE"
+        android:background="#2e3535"
+        android:layout_width="250dp"
+        android:layout_height="70dp" />
+
+
+    <Button
+        android:id="@+id/union_id"
+        android:layout_margin="15dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:textColor="#fcf9f1"
+        android:textSize="28sp"
+        android:text="UNION"
+        android:background="#2e3535"
+        android:layout_width="250dp"
+        android:layout_height="70dp" />
+
+
+
+</LinearLayout>

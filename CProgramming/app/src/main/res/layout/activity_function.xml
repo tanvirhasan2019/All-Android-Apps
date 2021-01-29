@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="center"
+    android:background="@drawable/func_background"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Function">
+
+    <Button
+        android:id="@+id/function_basic_id"
+        android:layout_margin="15dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:textColor="#fcf9f1"
+        android:textSize="28sp"
+        android:text="FUNCTION"
+        android:background="#2e3535"
+        android:layout_width="250dp"
+        android:layout_height="70dp" />
+
+    <Button
+        android:id="@+id/value_id"
+        android:layout_margin="15dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:textColor="#fcf9f1"
+        android:textSize="28sp"
+        android:text="VALUE AND REFERNCE"
+        android:background="#2e3535"
+        android:layout_width="250dp"
+        android:layout_height="70dp" />
+
+
+    <Button
+        android:id="@+id/recursion_id"
+        android:layout_margin="15dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:textColor="#fcf9f1"
+        android:textSize="28sp"
+        android:text="RECURSION"
+        android:background="#2e3535"
+        android:layout_width="250dp"
+        android:layout_height="70dp" />
+
+    <Button
+        android:id="@+id/storage_id"
+        android:layout_margin="15dp"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:textColor="#fcf9f1"
+        android:textSize="28sp"
+        android:text="STORAGE CLASS"
+        android:background="#2e3535"
+        android:layout_width="250dp"
+        android:layout_height="70dp" />
+
+
+
+</LinearLayout>

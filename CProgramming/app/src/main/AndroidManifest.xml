@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tansh.cprogramming">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/c_main"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/c_main"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".History" />
+        <activity android:name=".Tutorial" />
+        <activity android:name=".Control" />
+        <activity android:name=".Condition_theory" />
+        <activity android:name=".Function" />
+        <activity android:name=".Function_theory" />
+        <activity android:name=".Array" />
+        <activity android:name=".Array_theory" />
+        <activity android:name=".Pointer" />
+        <activity android:name=".Pointer_theory" />
+        <activity android:name=".Memory_allocation" />
+        <activity android:name=".String_main" />
+        <activity android:name=".String_theory" />
+        <activity android:name=".Math_Func" />
+        <activity android:name=".Structure_main" />
+        <activity android:name=".Structure_theory" />
+        <activity android:name=".File_hand_main" />
+        <activity android:name=".File_hand_theory" />
+        <activity android:name=".Preprocessor_main" />
+        <activity android:name=".Preprocessor_theory" />
+        <activity android:name=".programs_problem" />
+        <activity android:name=".programs_theory" />
+        <activity android:name=".Question" />
+    </application>
+
+</manifest>
