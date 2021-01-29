@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_margin="10dp"
+            android:text="How To Remotely Shutdown PC From Anywhere With Smartphone"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+
+            android:src="@drawable/android_shoutdown1"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_margin="10dp"
+            android:text="Steps To Shutdown PC With Smartphone Remotely:
+Step 1. First of in your Windows PC, download and install the program Airytec switch off."
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_gravity="center"
+
+            android:src="@drawable/android_shoutdown2"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_margin="10dp"
+            android:text="Step 2. Now install the app and you will see shutdown icon in system tray."
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_gravity="center"
+
+            android:src="@drawable/android_shoutdown3"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:text="Step 3. Click on the icon and tick the options there according to your need like Force shutdown should be enabled."
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_shoutdown4"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="Step 4. Now right click on shutdown icon and click on settings and there click on remote section there. Now click on Edit Web interface Settings there."
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_shoutdown5"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="Step 5. There enable Web interface and remain the Authentication unchecked and click on apply button."
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_shoutdown6"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:text="Step 6. Now click on view / update static addresses and note down the Shutdown URL  there and for the easy interface, you can bookmark this URL in Your Mobile. Now double click on shutdown icon in system tray and enable task."
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_shoutdown7"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:text="Step 7. Now open the URL in your mobile and you will see the interface like below"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_shutodown8"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:text="Step 8. Now you can click on shutdown button to shut down your computer. That’s it! you are done. By using this, now you can easily shutdown your computer from anywhere using your phone."
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_shutodown9"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:text="Method 2: Using Unified Remote
+Step 1. First of all, you need to download the app named Unified Remote on your Android device.
+[appbox googleplay com.Relmtech.Remote]
+Step 2. Now you need to go to this link and download and install this application on your computer."
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_shutodown10"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:text="Step 3.  Now open the Android app, make sure your device and computer connected to the same WiFi network. If you are connected you will get to see the screen like below."
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_shutodown11"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:text="Step 4.  Now on the mobile app, you will get to see lots of option like “Basic Input”, “File Manager”, “Keyboard” etc."
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_shutodown12"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:text="Step 5. Now you need to click on “Power”"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_shutodown13"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+
+            android:layout_gravity="center"
+            android:text="Step 6. Now you will see various options like Restart, Shutdown etc."
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_shutodown14"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:text="Simply, click on shutdown and your computer will be turned off from your mobile device. This is by far the easiest way to do so."
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:text="Using Shutdown Start Remote
+Shutdown Start Remote is an app for Android to remote shutdown or starts your computer. It is very easy to use. Users need to download a windows client and an Android app to shutdown computer remotely.
+Step 1. First of all download and install Shutdown Start Remote on your Android smartphone.
+[appbox googleplay de.vrallev.shutdown.android]
+Step 2. Now in the very next step, you need to download the client for Windows. You need to visit this link and download the app to your Windows computer and install it.
+Step 3. Make sure you are connected to the same wifi network. Open the Android app and you will see the screen like below. Simply scroll down the screen."
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_shutodown15"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:text="Step 4. Now you need to tap on ‘Start Search’. It will search for the computer and will automatically detect."
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_shutodown16"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:text="Step 5. Once the app detects the computer it will show you the screen like below. Here you need to tap on your computer."
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_shutodown17"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:text="Step 6. Now you will see the screen like below. Here you can set the time or can immediately restart, shutdown or hibernate your computer."
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_shutodown18"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:text="That’s it! You are done this is how you can use Shutdown Start Remote to control your computer from your Android smartphone.
+Using Shutter
+Shutter is one of the great Windows tool developed by Denis Kozlov. The tool allows users to shutdown, restart, hibernate computer through a web browser. That means you can use Shutter to remotely turn off your computer from a web browser running platforms including iOS, Android, etc.
+Step 1. First of all, download shutter on your Windows computer and install it as usual. You will now see the main interface of the tool.
+Step 2. Now you need to set events which will trigger actions. For example, you can select low battery on events to trigger the ‘Shutdown’ or ‘Hibernate’"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+        android:layout_gravity="center"
+        android:src="@drawable/android_shutodown19"
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:text="Step 3. After selecting the event, configure the actions. In ‘Action’ you need to select ‘Shutdown’. Now click on the ‘Start’ button."
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_shutodown20"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+
+            android:layout_gravity="center"
+            android:text="Step 4. Now open the ‘Options’ and then go to the ‘Web Interface’"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_shutodown21"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:text="Step 5. Under the web interface, you need to select your computer’s IP Address from the listed IP Menu and then choose the port that you would like to use. Enter the Username and Password and click on ‘Save’
+Step 6. Now open the web browser and then enter the IP Address with the port number. It will ask you the username and password, enter it and then choose anything from the list."
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_shutodown22"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:text="That’s it, you are done! This is how you can use shutter to remotely shut down your computer from anywhere with smartphone.
+So this is all about how to remotely shutdown PC from anywhere with smartphone. With the cool method discussed above, you can easily shut down your computer anywhere from your smartphone or any web-enabled device. Hope you like the article, do share with others too. Leave a comment below if you have any related queries with this."
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

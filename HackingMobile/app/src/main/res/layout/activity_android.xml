@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Android">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <Button
+                android:id="@+id/unlock_bypass_id"
+                android:textSize="16sp"
+                android:text="Unlock or Bypass Android 5 Lollipop "
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="15dp" />
+
+            <Button
+                android:id="@+id/hackwifi_id"
+                android:textSize="16sp"
+                android:text="Hack Wifi Security In Your Android "
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="15dp" />
+
+            <Button
+                android:id="@+id/finger_id"
+                android:textSize="16sp"
+                android:text="FINGER PRINT SECURITY"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="15dp" />
+            <Button
+                android:id="@+id/kali_linux_id"
+                android:textSize="16sp"
+                android:text="Install Kali Linux In Your Android"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="15dp" />
+            <Button
+                android:id="@+id/shoutdown_id"
+                android:textSize="16sp"
+                android:text="Remotely Shutdown Your PC With Your Android"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="15dp" />
+            <Button
+                android:id="@+id/recycle_id"
+                android:textSize="16sp"
+                android:text=" Add Recycle Bin Feature In Any Android"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="15dp" />
+            <Button
+                android:id="@+id/guest_id"
+                android:textSize="16sp"
+                android:text=" Add Guest Mode In Your Android"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="15dp" />
+            <Button
+                android:id="@+id/particular_id"
+                android:textSize="16sp"
+                android:text="Block Distracting Apps For Particular Time In Android"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="15dp" />
+
+            <Button
+                android:id="@+id/hack_game_id"
+                android:textSize="16sp"
+                android:text="Hack Any Game On Your Android Smartphone"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="15dp" />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+
+</LinearLayout>

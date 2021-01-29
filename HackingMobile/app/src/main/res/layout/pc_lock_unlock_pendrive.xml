@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/layout1Id"
+    android:background="#8ba0e6"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="Lock and unlock your computer with a Pendrive, Hacker Style
+1. Download Predator USB software from its Official Website for 9 days trial.
+2. Install and Launch this software in your window PC.
+3. When you launch this software first this software asks you to set the password."
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/pc_lock1"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:layout_margin="10dp"
+                android:text="4. Set your password and click on Ok button. (Make sure your Pendrive is connected to your PC.)"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/pc_lock2"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:layout_margin="10dp"
+                android:text="5. Now this software is ready for locking your computer from Pendrive.
+6. Open Predator Settings"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+            <ImageView
+                android:src="@drawable/pc_lock3"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+
+            <ImageView
+                android:src="@drawable/pc_lock4"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="When you remove Pendrive from your computer your computer asks you enter your password with the warning."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_lock5"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="If you do not enter the correct password, you computer screen goes black with access denied message."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_lock6"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="Start Automatically Predator Software When you Start your PC
+If somehow this software not automatically started when you start your computer then add this software in your startup folder.
+1 Press Win+R, type shell:startup and press enter."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_lock7"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="2.  Now add Predator Shortcut icon in Startup Folder. You can copy it from the desktop."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_lock8"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="You can also see logs for all messages, warnings, fail login attempts and all other information."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_lock9"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/layout1Id"
+    android:background="#8ba0e6"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="Increase the Size your Computer Hard Disk up to 2TB in Window 10
+1. Search Disk Management in Window Search Box and select Create and format hard disk partitions."
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/pc_harddisk1"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:layout_margin="10dp"
+                android:text="2. Now you see Disk Management dialog box in your screen. Select Action in the menu bar and click on Create VHD in your Computer."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/pc_002"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:layout_margin="10dp"
+                android:text="3. Now a new dialog box appears in your screen. First click on browse and make a .vhd file in any of your drives. Select GB  and put 1999 value in the box. Make sure you select Dynamically expanding option and click on OK button."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+            <ImageView
+                android:src="@drawable/pc_harddisk3"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="4. Select Disk 1999GB, Right- Click on it and choose Initialize Disk."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/pc_harddisk4"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="5. In this box all things are already right, just click on OK button."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_harddisk5"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="6. Right Click on 1999 GB Unallocated Drive and select New Simple Volume."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_harddisk6"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="7. Click on Next button."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_harddisk7"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="Click on Next button."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_harddisk8"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="Click on Next Button."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_harddisk9"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="Click on Next Button."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_harddisk10"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="Click on Format Disk and move to next steps."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_harddisk11"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="Click on Start button and you successfully Create a 2TB Virtual Disk in Window 10."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_harddisk12"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="Now You see 2TB Virtual Hard Disk in Window 10 from File Explorer."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_harddisk13"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="You can create many fake Hard Disk in your computer as many as you want from this fake hard disk tutorial."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+
+</LinearLayout>

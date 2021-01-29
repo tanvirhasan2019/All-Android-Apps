@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:text="How to Install and Run Kali Linux on any Android Smartphone"
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="Steps To Install Kali Linux On Any Android:
+First of all download and install Linux Deploy App in your android from the Google Play Store.
+Now After downloading and installing it launch the app in your device and there tap on download button."
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+
+            android:src="@drawable/android_kali1"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="Now there tap on Distribution option and change it to Kali Linux instead of Linux."
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_gravity="center"
+
+            android:src="@drawable/android_kali2"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="Now scroll up and click on the Install button at the top of  there.
+Now wait for the download to complete time taken can be vary depending upon your internet speed.
+Now download and install VNC Viewer App in your android from the Play Store.
+Now launch the app and fill up the settings as displayed on the screenshot below."
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_kali3"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="Now click on Connect button there."
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_kali4"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="Thats it you are done, Now Kali linux gets installed in your android and you can enjot the dummy hacking environment in your android.So above is the complete guide for Install Kali Linux On Any Android. With this you can easily test your knowledge about pentesting attacks on your android using the app discussed above. So try out this today. Hope you like our work, do share with others too. Leave a comment below if you facing any problem at any step discussed above."
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+    </LinearLayout>
+
+</ScrollView>

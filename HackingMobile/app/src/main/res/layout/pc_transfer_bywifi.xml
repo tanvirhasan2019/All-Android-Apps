@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/layout1Id"
+    android:background="#8ba0e6"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="Instructions for Sharing Data Between Two Computers/Laptop Using Minishare Software
+1. Download, install and open Minishare Software in your PC. Choose your Local IP.(eg: 192.1168.137.1)"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/pc_two1"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:layout_margin="10dp"
+                android:text="2. Add Files in Minishare for Sharing Files between Two Computers."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/pc_two2"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:layout_margin="10dp"
+                android:text="3. Now you see your added files in Minishare Program."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+            <ImageView
+                android:src="@drawable/pc_two3"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="4. Open Second(Other) laptop web browser and type the IP address you selected in Minishare.(If you forget the IP address see Minishare program in First PC, Minishare always shows current IP in title bar.)"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_two4"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="Just click on any files and your file will we started downloading in your PC."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="Shareit: Transfer Data between two or more laptop without WiFi Connection
+Like we all know Shareit is one of the most popular apps for transferring data between mobiles like Android and iPhones. Shareit is also available for PC, and you can transfer data between two computers with the help of this software.
+Download Shareit Software for Your Window PC from Official Website.
+Instructions for Sharing Data Between two Laptop/Computers from Shareit
+1.Download and install Shareit Software in your windows PC and open it.
+2. Click on Send button."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_two5"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="3. Browse your files and add your files in Shareit program."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_two6"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="4. Now Shareit scan for another laptop in the next screen. (Like mobile in Second Laptop selects Reciever button.) Select your receiver and your files will be transferred."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_two7"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_two8"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="This is one of the best methods for transferring data between two laptops in just minutes. If you are not a pro user and you don’t know how to connect cables and how to set up window network settings, this post can help you. You can easily share data between two laptops using this post."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+
+</LinearLayout>

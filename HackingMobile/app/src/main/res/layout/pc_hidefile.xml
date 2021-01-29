@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/layout1Id"
+    android:background="#8ba0e6"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="1. Open Window Explorer from Double Click on My Computer icon or you can Open Window Explorer from pressing Win + E keyboard button.
+2. In My Computer, click on Organize button and select Folder and search options."
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/pc_hide1"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:layout_margin="10dp"
+                android:text="3. Now you see a Dialog box in your computer screen. In the View, tab option selects the Don’t show hidden files, folder or drives button."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/pc_hide2"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:layout_margin="10dp"
+                android:text="4. Click on Apply button and Select Ok."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="Process 2 [How you Hide your Selected File and Folders in Computer]
+1 Right Click on any File or Folder you want to hide and choose Properties button."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/pc_hide3"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="2. Now you see Properties of that file. You see a dialog box, below the box you see Hidden button select that and click on Apply. Now your Folder and File will be hidden in your computer completely."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_hide4"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="For seeing your hidden file and folders go to Process 1 and select Show hidden file, folder and drive option.
+If you use Window 10, you can directly Show or hide hidden items from going View tab in Menu bar."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <ImageView
+                android:src="@drawable/pc_hide5"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="Personally I don’t recommend you to use the third-party software because of mostly software on the internet for this purpose are freemium and come with lots of adware.
+If you found working software for hiding files and folders, make sure it does not contain any type of adware and download that software from its official website."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+
+</LinearLayout>

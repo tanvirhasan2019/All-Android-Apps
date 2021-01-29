@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/layout1Id"
+    android:background="#8ba0e6"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:src="@drawable/pc_ip1"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:text="How to Hide IP Address in Android Mobile and Windows PC
+Hide IP Address in Android Mobile
+You can hide your IP address in android mobile from downloading android apps. Like before we post VPN for android and believe me if you use right VPN in android mobile, you can easily hide your IP address in android mobile."
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/pc_ip2"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:layout_margin="10dp"
+                android:text="Hide IP Address in Window PC
+You can hide your IP address in  all versions of windows like window 7, window 8 and Window 10. For PC, you get lots of software and tricks for hiding your IP Address."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <ImageView
+                android:src="@drawable/pc_ip3"
+                android:layout_margin="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_gravity="center_horizontal"
+                android:textColor="#a62946"
+                android:textSize="22sp"
+                android:layout_margin="10dp"
+                android:text="ProXPN is free VPN software available for all windows versions. But first you need to register yourself in ProXPN website.
+Download ProXPN Software for Windows PC
+You can also download Hotspot Shield VPN for windows , but in free version you need to see ads.
+Hide IP Address in iPhone Smartphone
+VPN by surfeasy is one of the best VPN for iPhone users and its helps them to hide real ip address."
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+
+</LinearLayout>

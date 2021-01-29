@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    android:background="#e1dfd9"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:text="How To Add Recycle Bin Feature On Your Android Smartphone
+
+ With the recycle bin feature in your Android device, you can now easily make your data secure from being deleted by yourself or any other person too. And the process is extremely easy and is just based on a simple Android app that will temporary store deleted files that you can restore. Just follow the below steps to proceed. You’ll need to use the Dumpster App."
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:text="Features Of Dumpster:
+Restore deleted pictures, music files, videos and pretty much almost any file type (pdf, mp3, doc, Avi, mp4, jpg, png, rar, ogg, txt and much more:
+No Rooting needed but if you do, you will get improved performance.
+Internet connection absolutely not required.
+NEW: Recover uninstalled apps
+Restore Dumpster backup files with a single tap.
+Preview deleted photos, videos, and audio files before recovering.
+Send files to Dumpster using “share” or “send to” from any file manager or gallery app out there.
+Scheduled auto-clean of old deleted items.
+Protect your privacy with a special lock screen and access restriction."
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+
+        <TextView
+            android:layout_margin="10dp"
+            android:text="Steps To Install And Use Dumpster For The First Time
+Step 1. First of all, download and install Dumpster app from Play store.
+[appbox googleplay com.baloota.dumpster]
+Step 2. Now when you open the app, there will be long agreement displayed, either waste your lots of time to read those or simply click on agree and proceed."
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <ImageView
+            android:src="@drawable/android_recycle1"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="Step 3. Now in the next step, select the media which you want to store in the app which gets deleted from your storage."
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:src="@drawable/android_recycle2"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="Step 4. Now this app is ready to store all the data that is being deleted in your Android device."
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:src="@drawable/android_recycle3"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="Note that if your Android is rooted that you can give superuser access to this app for better working of this app."
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="Using ES File Explorer
+ES File Explorer (File Manager) is a full-featured file (Images, Music, Movies, Documents, app) manager for both local and networked use. It also provides the option to add recycle bin. Files that you deleted using Es File explorer can be recovered through Recycle Bin option. Here’s how to use it.
+Step 1. First of all, download and install ES File Explorer from Google Play Store.
+[appbox googleplay com.estrongs.android.pop]
+Step 2. Now launch the app and click on the menu in the left sidebar."
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/android_recycle4"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="Step 3. Now you need to look for the option “Recycle Bin” and enable it."
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:src="@drawable/android_recycle5"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="Step 4. Now if you want to recover it, simply click on “Recycle Bin” option from the left sidebar and you will see all the deleted files there."
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/android_recycle6"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="So above is all about How To Add Recycle Bin Feature On Android Phone. By this, you can undoubtedly revert back all the files that you may delete accidentally or deliberately and secure your sensitive data from being deleted. Hope you like the discussion. Don’t forget to share it with your friends and leave a comment below if you need our help at any step."
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+</ScrollView>

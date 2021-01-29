@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:text="How to Recover WiFi Password On Android (Without Root)"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:text="Step 1. First of all, you need to install this application WIFI WPS WPA TESTER in your android (recommended)."            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/android_wifi1"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:text="Step 2. Now simply launch the app from app drawer and you will see app will start scanning all the wifi networks around you.
+Step 3. Now you will see the list wifi networks the application found. Now the only thing you to do here is checking the color of the right side lock if the lock is green colored that means the wifi is hackable and if red then it’s not.
+Step 4. Now when you get the network with green lock sign at right then simply tap on that network."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/android_wifi2"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:text="Step 5. Now an info popup will appear and there simply click on connect option."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:src="@drawable/android_wifi3"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:text="Step 6. Now on the next popup, you will have two option Root or No root. Now simply select the NO ROOT method there."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:src="@drawable/android_wifi4"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:text="Step 7. Now on the next popup, you will see a list of Pin which will help to get into the wifi networks, choose one of them and select Connect(root) option."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:src="@drawable/android_wifi5"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:text="Step 8. Now pin attack will start and it will take some seconds to complete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:src="@drawable/android_wifi6"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:text="Step 9. If the PIN entry works successfully then you will see the network password that you will simply copy and then connect to the network.
+Step 10. If the Pin doesn’t work then you will see an error message and at that time you need is to try the other PINs and I am sure that one of them will definitely work for you.
+That’s it you’re done, now you have the wifi password of the network and can easily use it to connect to that network with any of the device that you have."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+</ScrollView>

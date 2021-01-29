@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:src="@drawable/android_hack_game1"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:text="Steps To Hack Any Game On Android 2019 (hacked android games download):
+Step 1. First of all after rooting your Android device open the GameCIH App. It will ask you for superuser access, grant it. (This will only come if you have properly rooted your android device. Now on the home screen of this app, you will see Hot-Key option, select any of them which you feel more convenient while using in your android."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <ImageView
+            android:src="@drawable/android_hack_game2"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:text="Step 2. Now open the game that you want to hack in your android device. Now pause the game and access the hotkeys displaying there, select any value that you want to edit in your game. Like any of text value like keys of subway surfer game."
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/android_hack_game3"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="Step 3. Enter your desired value in the text field box appeared there and click on done. Now you will see default value will get replaced with your value. Similarly, you can alter any values in any of the game according to your wish."
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/android_hack_game4"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="That’s it game hacking is done, Now you can access any resources using this hack.
+So above is all about Hack Any Game On Android. With the help of this trick, you can alter any coins, lives, money, weapons power and lots more in any of your favorite android game and can enjoy the unlimited game resources according to your wish."
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:text="Using Game Guardian: android hack for games
+Game Guardian Apk is one of the best apps which you can have on your Android smartphone. With the help of this app, you can easily get unlimited coins, gems and can perform all other hacks. However, Game Guardian Apk needs a rooted Android smartphone to work. Here’s a simple guide that will help you.
+Step 1. First of all, you need to download the latest version of Game Guardian on your Android smartphone from the given download link above or below.
+Step 2. After downloading on your smartphone, you need to enable the Unknown Source on your device. For that, you need to visit Settings > Security > Unknown Sources"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:src="@drawable/android_hack_game5"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:text="Step 3. Now install the app and then press the home button to minimize the app. Now open any game that you want to hack. You will see an overlay of Game Guardian App icon. Tap on it.
+Step 4. Now you need to tap on the Search Button and set the value. If you don’t know the values, then simply set it to auto."
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/android_hack_game6"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:text="Step 5. You need to search for the value which you want to hack like money, gem, health, score etc. You can change all those values. Suppose, if you need to decrease the number of values, you need to scan again for the new value."
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:src="@drawable/android_hack_game7"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:text="Step 6. Finally, you need to select all the values and then change it to infinite numbers like ‘9999999’ or whatever you want.That’s it, you are done! This is how you can use Game Guardian Apk to hack games on your Android smartphone."
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:src="@drawable/android_hack_game8"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+</ScrollView>

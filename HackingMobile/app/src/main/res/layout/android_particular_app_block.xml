@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:text="Steps To Block Distracting Apps For Particular Time In Android
+Step 1. First of all, you need a cool Android app that is ClearLock: block distractions in your Android."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <ImageView
+            android:src="@drawable/android_particular1"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:text="Step 2. Now launch the app on your Android device, and there you will see the list of the apps that are currently installed on your Android device."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/android_particular2"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:text="Step 3. Now select the apps that you want to block for a particular time in your device."
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:src="@drawable/android_particular3"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:text="Step 4. Now set the time period for how long do you want to block your distracting apps."
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:src="@drawable/android_particular4"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:text="Step 5. Now clear lock will ask you to confirm your app block. Simply click on “I’M SURE” there.
+Note: You won’t be able to use your blocked apps until the time has ended. "
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:src="@drawable/android_particular5"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:text="Step 6. Now you will see a screen which will let you know how much time is left to unlock your apps. You need to reboot your device to access your blocked apps."
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:src="@drawable/android_particular6"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:text="That’s it now you will have time to complete out your work without getting distraction from the apps on your Android device."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+
+</ScrollView>

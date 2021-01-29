@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/layout1Id"
+    android:background="#8ba0e6"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:layout_gravity="center_horizontal"
+            android:textColor="#a62946"
+            android:textSize="22sp"
+            android:text="How to Unlock or Bypass Android 5 Lollipop Lock Screen"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/android_unlock_bypass"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_gravity="center_horizontal"
+
+            android:textColor="#a62946"
+            android:textSize="22sp"
+            android:layout_margin="10dp"
+            android:text="Steps To Bypass Android 5 Lollipop Lock Screen
+First of in your locked android click on Emergency Dialer option.
+Now there keep on typing any random numbers and characters until it reaches its maximum limit."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/android_bypass2"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_gravity="center_horizontal"
+
+            android:textColor="#a62946"
+            android:textSize="22sp"
+            android:layout_margin="10dp"
+            android:text="Now just copy out all the number that you have typed there.
+Now open the camera that you can even access a lock screen.
+Now try to drag the screen downward and it will ask you to enter a password. There paste the code that you had copied."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <ImageView
+            android:src="@drawable/android_bypass3"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_gravity="center_horizontal"
+
+            android:layout_margin="10dp"
+            android:textColor="#a62946"
+            android:textSize="22sp"
+            android:text="If the camera app not crashes then repeat step from 1 to 5 with pressing volume keys while pasting the character code.
+Now you have to repeat this until camera app crashes and you moved to main menu with unlocked screen."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/android_bypass4"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_gravity="center_horizontal"
+
+            android:layout_margin="10dp"
+            android:textColor="#a62946"
+            android:textSize="22sp"
+            android:text="Thats it you are done, your android will be unlocked now."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</ScrollView>
+
+
+
+
+
+</LinearLayout>

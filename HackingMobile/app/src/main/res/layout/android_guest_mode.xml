@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:text="Add Guest Mode Feature In Any Android Using Guest Mode App
+Step 1. First of all, download and install the app Guest Mode on your Android device."
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_guest1"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <TextView
+            android:layout_margin="10dp"
+            android:text="Step 2. Now you need to choose your app that guests can open in limited time. Click on the (+) sign to proceed."
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:layout_gravity="center"
+
+            android:src="@drawable/android_guest2"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+           android:text="Step 3. Now you will see all your apps that are currently installed on your device, select the one you want to protect and click on apply"
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_guest3"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:text="Step 4. Now you need to click on next arrow which is located in the lower right of your screen."
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_guest4"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_margin="10dp"
+            android:text="Step 5. Now you need to set the timer."
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_guest5"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_margin="10dp"
+            android:text="Step 6. Now you will be given a password, and it’s repeated time. Now click on start."
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_guest6"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_margin="10dp"
+            android:text="Step 7. After that, you will see Guest mode is running on your device and in its notification bar with a given time limit."
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_guest7"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_margin="10dp"
+            android:text="Step 8. If you want to close Guest mode, just tap on the running guest mode on your notification bar, you need to enter the given password in the 6th step to close."
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:layout_gravity="center"
+            android:src="@drawable/android_guest8"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_margin="10dp"
+            android:text="With the help of this app, you can easily get into a guest mode and can ensure your privacy."
+            android:layout_gravity="center"
+            android:textColor="#6b2636"
+            android:textSize="22sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</ScrollView>

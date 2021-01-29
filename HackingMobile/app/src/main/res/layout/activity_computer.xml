@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Computer">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <Button
+                android:id="@+id/change_password_id"
+                android:textSize="16sp"
+                android:text="Change Window 7 and 10 User Password without old password"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="15dp" />
+
+            <Button
+                android:id="@+id/harddisk_id"
+                android:textSize="16sp"
+                android:text="Increase the Size your Computer Hard Disk up to 2TB in Window 10"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="15dp" />
+
+            <Button
+                android:id="@+id/stealinh_wifi_id"
+                android:textSize="16sp"
+                android:text="Find Out Who’s Stealing and Using Wi-Fi Network in PC and Mobile"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="15dp" />
+            <Button
+                android:id="@+id/lock_pc_id"
+                android:textSize="16sp"
+                android:text="Lock and unlock your computer with a Pendrive [Hacker Style]"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="15dp" />
+            <Button
+                android:id="@+id/shoutdown_id"
+                android:textSize="16sp"
+                android:text="Remotely Shutdown Your PC With Your Android"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="15dp" />
+            <Button
+                android:id="@+id/twolaptop_id"
+                android:textSize="16sp"
+                android:text="Transfer Movies,Music and Data Between Two Laptops Using WiFi"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="15dp" />
+            <Button
+                android:id="@+id/hide_file_id"
+                android:textSize="16sp"
+                android:text="Perfectly Hide Files and Folder In Windows 7 and 10"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="15dp" />
+            <Button
+                android:id="@+id/hideip_id"
+                android:textSize="16sp"
+                android:text="Perfectly Hide IP Address in PC and Smartphone"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="15dp" />
+
+            <Button
+                android:id="@+id/hack_game_id"
+                android:textSize="16sp"
+                android:text="Hack Any Game On Your Android Smartphone"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_margin="15dp" />
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+
+</LinearLayout>

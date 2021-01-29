@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:text="Method -1 Change Window 7 and Window 10 Password Without Knowing old Password from Window Settings"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:text="Step-1  Press Windows Key and Find Your Computer option on Left side. Right-Click on Computer and open Manage option."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/pc_change_pass1"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:text="Step-2 Now you see Computer Management dialog box on your screen. Click on system Tools>>Local Users and Groups>>Users.
+
+Step-3 Now in Right side you see your all Users name."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:src="@drawable/pc_change_pass2"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:text="Step-4 Select Account right click on it and Choose Set Password."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:src="@drawable/android_bypass3"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:text="Step-5 Now the New Popup open , click on proceed button. Now you need to Enter the New Password and confirm them, then click on “OK” Button."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:src="@drawable/pc_change_pass4"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:src="@drawable/pc_change_pass5"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_margin="10dp"
+            android:textColor="#933442"
+            android:textSize="22sp"
+            android:text="Step-6 Now your login Password has been successfully changed .you can restart your system and check with your new password.
+So with this trick you can change any Windows System Password without Knowing Old Password.This trick works in all Window versions like Window 8 and Window 10. "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</ScrollView>
