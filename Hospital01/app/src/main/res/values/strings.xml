@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hospital01</string>
+    <string name="spinner_title">select department</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
